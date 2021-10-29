@@ -2,6 +2,8 @@
 A movie website made for a task as part of GDSC ITB
 Ranking the top 10 Marvel Superhero movies
 Website ini menampilkan 10 film superhero Marvel dengan rating Rotten Tomeatoes yang tertinggi.
+LIVE DEMO:
+https://raw.githack.com/Kean1202/GDSC-Movie-Website/main/Movie_Website/Cinema_XXI.html
 Fitur yang diimplementasikan pada website ini antara lain: pop-up informsi dengan info-info film
 serta searchbar filter.
 LAYAR UTAMA
