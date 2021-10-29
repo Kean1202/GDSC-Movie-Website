@@ -42,11 +42,12 @@ body{
 
 #search-input{   /* ini style untuk searchbar */
     display: inline-block;
-    margin-left: 330px;
+    margin-left: 430px;
     background-image: url('https://www.w3schools.com/css/searchicon.png'); /* Add a search icon to input */
     background-position: 10px 12px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
     width: 80%;
+    text-align: center;
     font-size: 16px; 
     margin-top: 20px;
     padding: 12px 20px 12px 40px; 
